@@ -1,6 +1,12 @@
 # SSH-BRUTEFORCE
 
-Kullanımı
+#Gerekli Kütüphaneleri
+
+pip install argparse
+
+pip install paramiko
+
+#Kullanımı
 
 -k = kullanıcı adı veya kullanıcı dosyası 
 
