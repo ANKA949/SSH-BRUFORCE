@@ -1,4 +1,4 @@
-# SSH-BRUFORCE
+# SSH-BRUTEFORCE
 
 Kullanımı
 
